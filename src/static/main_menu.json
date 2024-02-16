@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Новости",
+    "url": "news",
+    "children": [
+      {
+        "name": "Политика",
+        "url": "politics",
+        "children": [
+          {
+            "name": "Внутренняя политика",
+            "url": "internal"
+          },
+          {
+            "name": "Внешняя политика",
+            "url": "external"
+          }
+        ]
+      },
+      {
+        "name": "Экономика",
+        "url": "economics",
+        "children": [
+          {
+            "name": "Финансы",
+            "url": "finance"
+          },
+          {
+            "name": "Бизнес",
+            "url": "business"
+          }
+        ]
+      },
+      {
+        "name": "Общество",
+        "url": "society",
+        "children": [
+          {
+            "name": "Культура",
+            "url": "culture"
+          },
+          {
+            "name": "Образование",
+            "url": "education"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Спорт",
+    "url": "sport",
+    "children": [
+      {
+        "name": "Футбол",
+        "url": "football"
+      },
+      {
+        "name": "Баскетбол",
+        "url": "basketball"
+      },
+      {
+        "name": "Теннис",
+        "url": "tennis"
+      }
+    ]
+  },
+  {
+    "name": "Развлечения",
+    "url": "entertainment",
+    "children": [
+      {
+        "name": "Кино",
+        "url": "movies"
+      },
+      {
+        "name": "Музыка",
+        "url": "music"
+      }
+    ]
+  },
+  {
+    "name": "Технологии",
+    "url": "technology",
+    "children": [
+      {
+        "name": "IT",
+        "url": "it"
+      },
+      {
+        "name": "Наука",
+        "url": "science"
+      }
+    ]
+  },
+  {
+    "name": "Здоровье",
+    "url": "health",
+    "children": [
+      {
+        "name": "Медицина",
+        "url": "medicine"
+      },
+      {
+        "name": "Фитнес",
+        "url": "fitness"
+      }
+    ]
+  }
+]
